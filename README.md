@@ -9,10 +9,9 @@
 
 ![App Dockerfile](https://github.com/mehdishamaa/Docker_Microservices/blob/master/images/App_Dockerfile.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
+<space>
+<space>
+<space>
 
 2) Next, create a Dockerfile for your DB file. This file installs the dependencies for MongoDB:
 
